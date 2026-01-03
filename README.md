@@ -38,3 +38,10 @@ This project replicates the design and functionality of the scholarship page wit
 
 ## Clone Repo:
 https://github.com/IshitaSharma-Codes/Law-Prep-Tutorial-Patna-ScholarShip-Page-Clone
+
+
+---
+
+##Live Link:
+https://ishitasharma-codes.github.io/Law-Prep-Tutorial-Patna-ScholarShip-Page-Clone/
+
