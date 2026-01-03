@@ -1,0 +1,9 @@
+@media (max-width: 576px) {
+    .modal-body{
+        height: auto;
+    }
+
+    #Services h5,#Services p{
+        text-align: center;
+    }
+}
