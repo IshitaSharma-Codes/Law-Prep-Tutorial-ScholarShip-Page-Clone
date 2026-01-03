@@ -23,7 +23,7 @@ This project replicates the design and functionality of the scholarship page wit
 ---
 
 ## 📂 Project Structure
--
+
 - index.html        # Homepage
 - css                # Css folder
    - style.css         # Stylesheet
@@ -37,4 +37,4 @@ This project replicates the design and functionality of the scholarship page wit
 
 
 ## Clone Repo:
-https://github.com/IshitaSharma-Codes/Law-Prep-Tutorial-ScholarShip-Page-Clone
+https://github.com/IshitaSharma-Codes/Law-Prep-Tutorial-Patna-ScholarShip-Page-Clone
